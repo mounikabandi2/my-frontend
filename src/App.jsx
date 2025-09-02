@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        This is my second change
+        This is my chnage
       </p>
     </>
   )
