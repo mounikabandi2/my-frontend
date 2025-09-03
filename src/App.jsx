@@ -26,7 +26,8 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        This is my chnage
+        This is my second change
+        
       </p>
     </>
   )
